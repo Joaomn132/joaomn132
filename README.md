@@ -1,7 +1,7 @@
 ## Olá! Prazer, meu nome é João Antonio!
 
 ### 🛈 Estatísticas
-<div align="center">
+<div>
   <img  widht="42%" heigth="200" src="https://github-readme-stats.vercel.app/api?username=joaomn132&show_icons=true&theme=tokyonight&locale=pt-br"/>
   <img  width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomn132&layout=compact&theme=tokyonight&locale=pt-br"/>
 </div>
