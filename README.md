@@ -2,8 +2,8 @@
 
 ### 🛈 Estatísticas
 <div>
-  <img widht="42%" src="https://github-readme-stats.vercel.app/api?username=joaomn132&show_icons=true&theme=tokyonight&locale=pt-br"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomn132&layout=compact&theme=tokyonight&locale=pt-br"/>
+  <img align="center" widht="42%" src="https://github-readme-stats.vercel.app/api?username=joaomn132&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomn132&layout=compact&theme=tokyonight&locale=pt-br"/>
 </div>
 
 ### 🤖 Linguagens e Tecnologias
