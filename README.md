@@ -2,8 +2,8 @@
 
 ### 🛈 Estatísticas
 <div>
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=joaomn132&show_icons=true&theme=tokyonight"/>
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomn132&layout=compact&theme=tokyonight"/>
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=joaomn132&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomn132&layout=compact&theme=tokyonight&locale=pt-br"/>
 </div>
 
 
